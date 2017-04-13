@@ -1,4 +1,4 @@
-## AJAB CHAT
+# AJAB CHAT
 
 A google chrome extension which enables a group of people on a page to chat
 
@@ -15,10 +15,19 @@ A google chrome extension which enables a group of people on a page to chat
 - Ashwini Mani(A)
 - Bernard Malhame(B)
 
-## How to use it on command line
+## Prerequisites
+- node
 
+## How to use it on command line
  - ``` git clone https://github.com/AAMani5/ajab-chat.git ```
  - ``` cd ajab-chat ```
  - ``` npm install ```
  - ``` node app.js ```
  - ``` visit http://localhost:3000/ ```
+
+## How to use it as an extension with google chrome
+- ``` git clone https://github.com/AAMani5/ajab-chat.git ```
+- ``` cd ajab-chat ```
+- ``` npm install ```
+- ``` Go to chrome://extensions/ and check the box for Developer mode in the top right. ```
+- ``` Click the Load unpacked extension button and select the ajab-chat folder to install it. ```

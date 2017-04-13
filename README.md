@@ -17,8 +17,8 @@ A google chrome extension which enables a group of people on a page to chat
 
 ## How to use it on command line
 
-``` git clone https://github.com/AAMani5/ajab-chat.git ```
-``` cd ajab-chat ```
-``` npm install ```
-``` node app.js ```
-``` visit http://localhost:3000/ ```
+ - ``` git clone https://github.com/AAMani5/ajab-chat.git ```
+ - ``` cd ajab-chat ```
+ - ``` npm install ```
+ - ``` node app.js ```
+ - ``` visit http://localhost:3000/ ```
